@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.4.2](https://github.com/eslint/config-inspector/compare/v0.4.1...v0.4.2) (2024-04-06)
+
+
+### Bug Fixes
+
+* hide detail marker on safari ([#29](https://github.com/eslint/config-inspector/issues/29)) ([ad66b94](https://github.com/eslint/config-inspector/commit/ad66b940eacc788c24031d892fc8779dfdd07407))
+
+
+### Chores
+
+* move shared logics ([a9f1198](https://github.com/eslint/config-inspector/commit/a9f11983a2d912f1b867da6279099f95a7652bf9))
+* update deps ([bbda483](https://github.com/eslint/config-inspector/commit/bbda48353093ad89ea735cb659c3f002806ec64f))
+* use `h3` to create server ([#30](https://github.com/eslint/config-inspector/issues/30)) ([695e693](https://github.com/eslint/config-inspector/commit/695e6932dfd78c597b9825929571064d4b61df76))
+
 ## [0.4.1](https://github.com/eslint/config-inspector/compare/v0.4.0...v0.4.1) (2024-04-05)
 
 
